@@ -3,6 +3,8 @@
 #ifndef MY_ALLOCATION
 #define MY_ALLOCATION
 
+#include <string.h>
+
 /// @brief Функция выделения блока памяти
 /// @param n_elems Новое количество элементов для выделения
 /// @param size_elems Размер элементов для выделения
